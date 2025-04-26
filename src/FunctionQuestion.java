@@ -1,4 +1,4 @@
-public class Functions{
+public class FunctionQuestion{
     // Q1. . Write a program to create a method that prints "Java is Fun!".
     public static void javaIsFun() {
         System.out.println("Java is Fun!");
@@ -20,7 +20,7 @@ public class Functions{
         System.out.println("welcome to java method");
     }
 
-    // Q5. Design a method that prints your first name and last name in two separate
+    // Q5.. Design a method that prints your first name and last name in two separate
     //lines.
     public static void names() {
         System.out.println( "John");
@@ -44,8 +44,6 @@ public class Functions{
         // Q5.
         names();
 
-
-    }
 
 
 
